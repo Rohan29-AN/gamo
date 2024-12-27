@@ -1,25 +1,25 @@
 {
     "title": "Gamo",
-    "step1": "Configuration du Match",
-    "step2": "Paramètres du Match",
-    "step3": "Vérification des Informations",
+    "step1": "Match Configuration",
+    "step2": "Match Settings",
+    "step3": "Information Verification",
     "homeTeam": {
-        "name": "Équipe Domicile",
-        "logo": "Logo équipe domicile",
+        "name": "Home Team",
+        "logo": "Home team logo",
         "placeholderLogo": "./assets/logo_placeholder.png",
         "abbreviation": "LAL"
     },
     "visitorTeam": {
-        "name": "Équipe Visiteur",
-        "logo": "Logo équipe visiteur",
+        "name": "Visitor Team",
+        "logo": "Visitor team logo",
         "placeholderLogo": "./assets/logo_placeholder.png",
         "abbreviation": "BOS"
     },
     "matchSettings": {
-        "venue": "Nom du stade",
-        "date": "Date du match",
-        "quarterDuration": "Durée d'un quart-temps",
-        "shotClock": "Durée de possession"
+        "venue": "Venue Name",
+        "date": "Match Date",
+        "quarterDuration": "Quarter Duration",
+        "shotClock": "Shot Clock Duration"
     },
     "summary": {
         "teams": {
@@ -35,8 +35,8 @@
         "match": {
             "venue": "-",
             "date": "-",
-            "quarterDuration": "- minutes par quart-temps",
-            "shotClock": "- secondes de possession"
+            "quarterDuration": "- minutes per quarter",
+            "shotClock": "- seconds of possession"
         }
     }
 }
